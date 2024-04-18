@@ -1,1 +1,1 @@
-Well its a Basic Program to calcularae best of three tests Pretty much thats it.
+Some basic python Programmes Not recommended to go through untill you are beginer, Thank you
